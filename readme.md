@@ -3,6 +3,15 @@
 
 > 增強版 fetch (沒 bug 不再維護，建議使用 @wymjs/type-safe-fetch)
 
+## 安裝
+
+```shell
+# clone-deep, query-string 為關聯依賴
+$ pnpm i @wymjs/fetch-plus clone-deep query-string
+```
+
+## 使用
+
 ```typescript
 // @/service/api-types/dog.ts
 import { type TypeFetchPlus } from '@wymjs/fetch-plus'
