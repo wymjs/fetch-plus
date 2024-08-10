@@ -1,6 +1,6 @@
 {
 	"name": "@wymjs/fetch-plus",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"description": "增強版 fetch (沒 bug 不再維護，建議使用 @wymjs/type-safe-fetch)",
 	"main": "dist/index.js",
